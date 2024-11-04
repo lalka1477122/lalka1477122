@@ -5,7 +5,8 @@
 
 
 
-[![Статистика lalka1477122 на GitHub](https://github-readme-stats.vercel.app/api?username=lalka1477122)](https://github.com/lalka1477122/github-readme-stats)
+![Статистика lalka1477122 на GitHub](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
+
 
 
  
