@@ -5,7 +5,8 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilalka1477122anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика lalka1477122 на GitHub](https://github-readme-stats.vercel.app/api?username=lalka1477122)](https://github.com/lalka1477122/github-readme-stats)
+
 
  
  
