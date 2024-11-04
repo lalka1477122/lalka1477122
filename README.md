@@ -5,7 +5,7 @@
 
 
 
- ![Смешной GIF](https://media.giphy.com/media/your_gif_id/giphy.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilalka1477122anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
