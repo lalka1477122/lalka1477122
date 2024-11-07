@@ -6,7 +6,8 @@
 
 
 ![Статистика lalka1477122 на GitHub](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimelalka1477122)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lalka1477122)](https://wakatime.com/@lalka1477122)
+
 
 
 
