@@ -22,7 +22,7 @@
 
 - [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Your Email](mailto:example@example.com)
- ![Contribution Graph](https://github.com/lalka1477122/lalka1477122/blob/main/CONTRIBUTION_GRAPH.png)
+
 
 
 
