@@ -6,7 +6,8 @@
 
 
 ![Статистика lalka1477122 на GitHub](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalka1477122&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalka1477122&layout=compact&theme=radical)
+
 
 
 
