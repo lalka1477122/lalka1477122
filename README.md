@@ -17,13 +17,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### 📊 Statistics
 ![GitHub Stats for lalka1477122](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalka1477122&layout=compact&langs_count=10&theme=radical)
 
 - [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Your Email](mailto:example@example.com)
+![Contribution Graph](https://github.com/lalka1477122/lalka1477122/blob/main/CONTRIBUTION_GRAPH.png)
+
 
 
 
