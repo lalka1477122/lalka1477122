@@ -7,7 +7,8 @@
 
 ![Статистика lalka1477122 на GitHub](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalka1477122&layout=compact&theme=radical)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lalka1477122)](https://wakatime.com/@lalka1477122)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lalka1477122&theme=react-dark)
+
 
 
 
