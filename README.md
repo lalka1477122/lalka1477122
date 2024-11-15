@@ -19,8 +19,7 @@
 ![GitHub Stats for lalka1477122](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalka1477122&layout=compact&langs_count=10&theme=radical)
 
-- [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Your Email](mailto:example@example.com)
+- [Your Email](kibervantuzz@gmail.com)
 
 
 
