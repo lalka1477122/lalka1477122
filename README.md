@@ -18,7 +18,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalka1477122&layout=compact&langs_count=10&theme=radical)
 
-- [Your Email](kibervantuzz@gmail.com)
+<a href=kibervantuzz@gmail.com>почта</a>
 
 
 
