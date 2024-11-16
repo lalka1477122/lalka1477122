@@ -16,7 +16,6 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-![GitHub Stats for lalka1477122](https://github-readme-stats.vercel.app/api?username=lalka1477122&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalka1477122&layout=compact&langs_count=10&theme=radical)
 
 - [Your Email](kibervantuzz@gmail.com)
